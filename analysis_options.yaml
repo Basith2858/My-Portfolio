@@ -1,0 +1,18 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    avoid_print: true
+    use_super_parameters: true
+    always_declare_return_types: true
+    omit_local_variable_types: false
+    annotate_overrides: true
+    prefer_final_locals: true
+    prefer_relative_imports: true
+    
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
