@@ -22,7 +22,7 @@ A premium, animated portfolio application built with Flutter, Riverpod, and GoRo
    flutter pub get
    ```
 
-2. **Run on Mobile**
+2. **Run on Mobile***
    ```bash
    flutter run
    ```
