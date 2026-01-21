@@ -10,7 +10,7 @@ import 'package:url_launcher/url_launcher.dart';
 class HeroSection extends StatelessWidget {
   const HeroSection({super.key});
   Future<void> downloadCV() async {
-    final uri = Uri.parse('Abdul_Basith_Flutter_Developer_CV.pdf');
+    final uri = Uri.parse('Abdul_Basithr_CV.pdf');
 
     if (!await launchUrl(uri, mode: LaunchMode.platformDefault)) {
       throw 'Could not launch CV';
