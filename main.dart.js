@@ -89822,7 +89822,7 @@ A.On.prototype={
 A8(){var s=0,r=A.P(t.H)
 var $async$A8=A.Q(function(a,b){if(a===1)return A.M(b,r)
 for(;;)switch(s){case 0:s=2
-return A.U(A.lB(A.cl("Abdul_Basithr_CV.pdf",0,null),B.cs),$async$A8)
+return A.U(A.lB(A.cl("Abdul_Basith_CV.pdf",0,null),B.cs),$async$A8)
 case 2:if(!b)throw A.i("Could not launch CV")
 return A.N(null,r)}})
 return A.O($async$A8,r)},
